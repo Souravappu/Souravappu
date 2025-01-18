@@ -1,107 +1,110 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body { 
-      background: linear-gradient(45deg, #000000, #242424);
-      color: white;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    }
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    .hero {
-      text-align: center;
-      margin-bottom: 40px;
-    }
-    .stats-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 20px;
-      margin: 40px 0;
-    }
-    .tech-stack {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-      gap: 20px;
-      margin: 40px 0;
-      text-align: center;
-    }
-    .projects {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 20px;
-      margin: 40px 0;
-    }
-    .connect {
-      text-align: center;
-      margin: 40px 0;
-    }
-    .badge {
-      padding: 8px 16px;
-      border-radius: 20px;
-      background: linear-gradient(45deg, #A177FE, #7530FF);
-      display: inline-block;
-      margin: 5px;
-      transition: transform 0.3s ease;
-    }
-    .badge:hover {
-      transform: translateY(-2px);
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="hero">
-      <h1>👋 Hi, I'm Sourav P</h1>
-      <p>MERN Stack Developer | Tech Enthusiast</p>
-      <div>
-        <img src="/api/placeholder/800/200" alt="Coding Stats" />
-      </div>
-    </div>
+<!-- Animated Header Banner -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Sourav%20P&fontSize=90&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&fontColor=fff&stroke=fff&strokeWidth=2"/>
+</div>
 
-    <div class="tech-stack">
-      <h2>🛠️ Tech Stack</h2>
-      <div class="badge">React</div>
-      <div class="badge">Node.js</div>
-      <div class="badge">Express</div>
-      <div class="badge">MongoDB</div>
-      <div class="badge">TypeScript</div>
-      <div class="badge">Next.js</div>
-      <div class="badge">Tailwind</div>
-      <div class="badge">Redux</div>
-      <div class="badge">AWS</div>
-      <div class="badge">Docker</div>
-    </div>
+<!-- Dynamic Hero Section -->
+<div align="center">
+  <a href="https://github.com/Souravappu">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%7C+Tech+Enthusiast;Building+Scalable+Web+Applications;AWS+%7C+Docker+%7C+Microservices;5%2B+Years+of+Coding+Experience" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=7530FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%7C+Tech+Enthusiast;Building+Scalable+Web+Applications;AWS+%7C+Docker+%7C+Microservices;5%2B+Years+of+Coding+Experience" />
+      <img alt="Typing Animation" src="your-default-image.svg" />
+    </picture>
+  </a>
+</div>
 
-    <div class="projects">
-      <h2>🚀 Featured Projects</h2>
-      <div>
-        <h3>Ecobazar</h3>
-        <img src="/api/placeholder/400/200" alt="Ecobazar Project" />
-      </div>
-      <div>
-        <h3>Portfolio</h3>
-        <img src="/api/placeholder/400/200" alt="Portfolio Project" />
-      </div>
-      <div>
-        <h3>Starbucks Clone</h3>
-        <img src="/api/placeholder/400/200" alt="Starbucks Project" />
-      </div>
-      <div>
-        <h3>Netflix Clone</h3>
-        <img src="/api/placeholder/400/200" alt="Netflix Project" />
-      </div>
-    </div>
+<!-- Profile Stats -->
+<div align="center">
+  <a href="https://github.com/Souravappu">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Souravappu&cc=000&tc=fff&ic=fff&bc=000" width="60%" />
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=Souravappu&style=for-the-badge&color=A177FE&label=PROFILE+VIEWS"/>
+</div>
 
-    <div class="connect">
-      <h2>🤝 Let's Connect</h2>
-      <a href="https://www.linkedin.com/in/sourav-p-949b622b3/" class="badge">LinkedIn</a>
-      <a href="https://leetcode.com/u/Sour__av/" class="badge">LeetCode</a>
-      <a href="mailto:souravappu57@gmail.com" class="badge">Email</a>
-    </div>
-  </div>
-</body>
-</html>
+<br>
+
+<!-- GitHub Stats Grid -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Souravappu&theme=ambient-gradient&hide_border=true&border_radius=20&background=45%2C000000%2C242424" width="49%" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravappu&layout=compact&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" width="49%" height="200"/>
+</div>
+
+<br>
+
+<!-- Tech Stack -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/> 
+  Tech Arsenal
+</h2>
+
+<div align="center">
+  <!-- Primary Skills -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript&theme=dark&perline=5" width="80%" alt="Primary Skills"/>
+  
+  <!-- Secondary Skills -->
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,redux,aws,docker&theme=dark&perline=5" width="80%" alt="Secondary Skills"/>
+</div>
+
+<br>
+
+<!-- Featured Projects -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/>
+  Featured Projects
+</h2>
+
+<div align="center">
+  <a href="https://github.com/Souravappu/Ecobazar/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Souravappu&repo=Ecobazar&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" alt="Ecobazar"/>
+  </a>
+  <a href="https://github.com/Souravappu/portfolio/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Souravappu&repo=portfolio&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Souravappu/starbucks/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Souravappu&repo=starbucks&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" alt="Starbucks"/>
+  </a>
+  <a href="https://github.com/Souravappu/Netflix-website/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Souravappu&repo=Netflix-website&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" alt="Netflix Website"/>
+  </a>
+</div>
+
+<br>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Souravappu&theme=darkhub&no-frame=true&no-bg=true&column=7" width="100%" alt="Trophy Case"/>
+</div>
+
+<br>
+
+<!-- Connect Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
+  Let's Connect!
+</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sourav-p-949b622b3/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black"/>
+  </a>
+  <a href="https://leetcode.com/u/Sour__av/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&color=black"/>
+  </a>
+  <a href="mailto:souravappu57@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black"/>
+  </a>
+</p>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=40&fontColor=fff&animation=fadeIn&stroke=fff&strokeWidth=2"/>
