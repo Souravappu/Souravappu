@@ -21,7 +21,7 @@
   const developer = {
     name: "Sourav P",
     role: "MERN Stack Developer",
-    experience: "5+ years",
+    experience: "1+ years",
     passions: ["Web Development", "Cloud Architecture", "Microservices"],
     currentlyLearning: ["AWS", "Docker", "System Design"],
     funFact: "I code better with coffee ☕"
