@@ -1,102 +1,150 @@
+<!-- Animated Header Banner -->
 <div align="center">
-
-    <!-- Custom Profile Header -->
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&text=Hey%20I'm%20Sourav%20👨‍💻&fontSize=70&desc=Full%20Stack%20Developer%20|%20DevOps%20Engineer%20|%20Security%20Expert&descSize=20&descAlignY=62&animation=fadeIn" />
-
-    <!-- Profile View Counter and Social Stats -->
-    <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=Souravappu&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-        <a href="https://github.com/Souravappu?tab=followers">
-            <img alt="GitHub followers" src="https://img.shields.io/github/followers/Souravappu?style=for-the-badge&logo=github&color=green">
-        </a>
-        <a href="https://github.com/Souravappu">
-            <img src="https://img.shields.io/github/stars/Souravappu?style=for-the-badge&logo=github&color=yellow" alt="GitHub stars" />
-        </a>
-    </div>
-
-    <!-- Typing Animation -->
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=25&pause=1000&color=3BADF7&center=true&vCenter=true&random=false&width=700&height=80&lines=🔥+Passionate+Full+Stack+Developer;🚀+DevOps+and+Cloud+Engineering+Enthusiast;🛡️+Cybersecurity+Expert;🌟+Open+Source+Contributor;🤖+AI+%26+ML+Explorer" alt="Typing SVG" />
-    </a>
-
-    <!-- Custom Quote Banner -->
-    <div align="center">
-        <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
-    </div>
-
-    <!-- Divider -->
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
-
-    <!-- Animated Banner -->
-    [![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)](https://github.com/Souravappu)
-
-    <!-- Dynamic 3D Text -->
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Sourav%20NV&fontSize=90&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&fontColor=fff&stroke=fff&strokeWidth=2"/>
+  </div>
+  
+  
+  
+  <!-- Dynamic Hero Section -->
+  <div align="center">
     <a href="https://github.com/Souravappu">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Sourav;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Expert+%F0%9F%94%92;AI+%26+ML+Explorer+%F0%9F%A4%96;Cloud+Architecture+Specialist+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%7C+Tech+Enthusiast;Building+Scalable+Web+Applications;AWS+%7C+Docker+%7C+Microservices;5%2B+Years+of+Coding+Experience" />
+      <source media="(prefers-color-scheme: light)" 
+        srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=7530FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%7C+Tech+Enthusiast;Building+Scalable+Web+Applications;AWS+%7C+Docker+%7C+Microservices;5%2B+Years+of+Coding+Experience" />
+      <img alt="Typing Animation" src="your-default-image.svg" />
+    </picture>
     </a>
-
-    <!-- Innovative Quote with Custom Design -->
-    <div align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-    </div>
-
-    <!-- Enhanced Profile Views & Social Badges -->
-    <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=Souravappu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-        <img src="https://img.shields.io/github/followers/Souravappu?style=for-the-badge&color=0e75b6" alt="followers" />
-        <img src="https://img.shields.io/twitter/follow/Souravappu?style=for-the-badge&color=0e75b6" alt="twitter" />
-    </div>
-
-    <!-- Dynamic Trophies -->
-    <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Souravappu&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
-    </div>
-
-    <!-- Skill Proficiency Section -->
-    <h2 align="center">💫 Skill Proficiency</h2>
-    <div align="center">
-        Frontend Development    ███████████████████░   95%  
-        Backend Development    ████████████████████░   90%
-        Database Management    ███████████████████░░   85%
-        DevOps                 ██████████████████░░░   80%
-        Cybersecurity          ███████████████░░░░░░   75%
-        AI/ML                  ████████████░░░░░░░░░   60%
-    </div>
-
-    ---
+  </div>
+  
+  <!-- Animated Status Cards -->
+  <div align="center">
+    <a href="https://github.com/Souravappu">
+      <img src="https://github-stats-alpha.vercel.app/api?username=Souravappu&cc=000&tc=fff&ic=fff&bc=000" width="60%" />
+    </a>
+  </div>
+  
+  <!-- Profile Views Counter -->
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Souravappu&style=for-the-badge&color=A177FE&label=PROFILE+VIEWS"/>
+  </div>
+  Souravappu
+  <br>
+  <br>
+  
+  <!-- Animated Stats Grid -->
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=Souravappu&theme=ambient-gradient&hide_border=true&border_radius=20&background=45%2C000000%2C242424" width="49%" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravappu&layout=compact&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" width="49%" height="200"/>
+  </div>
+  
+  <br>
+  <br>
+  <br>
+  
+  <br>
+  <br>
+  <br>
+  
+  <!-- Interactive Tech Stack -->
+  <h2 align="center">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/> 
+    Tech Arsenal
+  </h2>
+  
+  <div align="center">
+    <!-- Primary Skills -->
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript&theme=dark&perline=5" width="60%"/>
     
-    <!-- Extended Tech Stack Section -->
-    <h2 align="center">🛠️ Technology Stack</h2>
-
-    <div align="center">
-        <!-- Frontend Technologies -->
-        ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-        ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-        ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-        ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-        <!-- Frontend Frameworks/Libraries -->
-        ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-        ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-        ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-        ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-        <!-- Backend Technologies -->
-        ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-        ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-        ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-        ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-        <!-- Databases -->
-        ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-        ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-        ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-        ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-        <!-- DevOps & Cloud -->
-        ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-        ![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
-        ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-        ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-        ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-    </div>
+    <!-- Secondary Skills -->
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,redux,aws,docker&theme=dark&perline=5" width="60%"/>
+  </div>
+  
+  <br>
+  <br>
+  <br>
+  
+  <!-- Animated Project Cards -->
+  <h2 align="center">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/>
+    Projects</h2>
+  <div align="center" style="display: flex; justify-content: center; gap: 10px;">
+    
+    <!-- Project 1 -->
+    <a href="https://github.com/Souravappu/Ecobazar/">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Souravappu&repo=teslaRsponsive&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
+    </a>
+    
+    <!-- Project 2 -->
+    <a href="https://github.com/Souravappu/portfolio/">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Souravappu&repo=Starbucks-clone&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
+    </a>
+   <!--project 3-->
+     <a href="https://github.com/Souravappu/starbucks">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Souravappu&repo=Instagram---clone&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
+    </a>
+  
+  <!--project 4-->
+    <a href="https://github.com/Souravappu/Netflix-website">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Souravappu&repo=Admin-User-management&theme=ambient_gradient&hide_border=true&border_radius=20&bg_color=45%2C000000%2C242424" />
+    </a>
+  </div>
+  
+  
+  <br>
+  <br>
+  <br>
+  
+  <!-- Interactive Trophy Case -->
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Souravappu&theme=darkhub&no-frame=true&no-bg=true&column=7" width="100%" alt="Trophy Case"/>
+  </div>
+  
+  <br>
+  <br>
+  <br>
+  
+  <!-- Contribution Activity -->
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souravappu&custom_title=Contribution%20Graph&bg_color=000000&color=A177FE&line=A177FE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  </div>
+  
+  <br>
+  <br>
+  <br>
+  
+  <!-- Animated Connect Section -->
+  <h2 align="center">
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
+    Let's Connect!
+  </h2>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sourav-p-949b622b3/">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black"/>
+    </a>
+    
+    <a href="https://leetcode.com/u/Sour__av/">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&color=black"/>
+    </a>
+    
+    <a href="mailto:souravappu57@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black"/>
+    </a>
+    
+  </p>
+  
+  <!-- Interactive Footer -->
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+      <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
+  
+  <!-- Dynamic Footer Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=40&fontColor=fff&animation=fadeIn&stroke=fff&strokeWidth=2"/>
+  
+  
