@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <div align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Sourav%20NV&fontSize=90&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&fontColor=fff&stroke=fff&strokeWidth=2"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Sourav%20P&fontSize=90&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&fontColor=fff&stroke=fff&strokeWidth=2"/>
   </div>
   
   
