@@ -6,10 +6,9 @@
 <!-- Enhanced Animated Introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7530FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Full-Stack+Developer+%7C+Tech+Explorer+%7C+Problem+Solver;Crafting+Digital+Experiences+with+MERN+Stack+Magic" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7530FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Full-Stack+Developer+%7C+Tech+Explorer+%7C+Problem+Solver;Crafting+Digital+Experiences+with+MERN+Stack+Magic" alt="Typing SVG" />
   </a>
 </div>
-
 <br>
 
 <!-- Enhanced About Me Section with Badges -->
